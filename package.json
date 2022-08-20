@@ -14,9 +14,9 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/javiervargas97/text-editor.git"
   },
-  "author": "",
+  "author": "Javier Vargas",
   "license": "ISC",
   "bugs": {
     "url": "http://github.com/javiervargas97/text-editor"
